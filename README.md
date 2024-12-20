@@ -136,11 +136,6 @@ Estimated Total Size (MB): 3.36
    - OneCycleLR Scheduler
    - Light Dropout (0.05)
 
-## Results
-- Training Accuracy: ~87%
-- Test Accuracy: ~85%
-- Parameters: 100,618
-- Training Time: ~5 minutes/epoch on CPU
 
 ## Code Structure
 ```
